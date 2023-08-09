@@ -1,0 +1,27 @@
+.container {
+  width: 30%;
+  background-color: #97854e;
+  margin: 40px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+}
+#title {
+  margin-top: 10px;
+  text-align: center;
+  font-size: bold;
+  color: #7e1717;
+}
+#sub:hover {
+  background-color: #6b2958;
+}
+#description {
+  text-align: center;
+}
+.btn {
+  margin-top: 10px;
+  border-radius: 5px;
+}
+#sub {
+  border-radius: 5px;
+}
